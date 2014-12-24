@@ -1,0 +1,34 @@
+clean
+compile
+gen-idea
+eixt
+exit
+test-only
+tasks
+test-only case1
+test-only 1
+test-only step1
+test-only Step1PrimarySpec
+test-only Step1_PrimarySpec
+compile
+test
+test-only
+compile
+test-only
+compile
+test-only
+test
+compile
+test
+compile
+test
+submit cosmin.cojocar@finnova.ch 6cm8cmE4Fg
+run
+compile
+test
+exit
+compile
+test
+exit
+compile
+test

@@ -1,0 +1,21 @@
+compile
+test
+gen-idea
+exit
+tasks
+gen-idea
+exit
+clean
+compile
+test
+compile
+test
+sbt compile
+compile
+clean
+compile
+test
+run
+compile
+test
+submit cosmin.cojocar@finnova.ch 6cm8cmE4Fg
